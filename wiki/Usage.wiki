@@ -3,7 +3,7 @@
 
 <wiki:toc max_depth="1" />
 
-= Quickstart =
+= The 5-minute introduction =
 
 If you have an existing project, it's quite easy to add client-side support for adding and removing forms.
 
@@ -241,7 +241,7 @@ complete list of available options is shown below::
     `keepFieldValues`
         Set this to a jQuery selector, which should resolve to a list of elements
         whose values should be preserved when the form is cloned.
-        Internally, this value is passed directly to the ``$.not(...)`` method.
+        Internally, this value is passed directly to the `$.not(...)` method.
         This means you can also pass in DOM elements, or a function (in newer
         versions of jQuery) as your selector.
 
