@@ -1,5 +1,4 @@
 #summary Documentation
-#labels Phase-Deploy
 
 <wiki:toc max_depth="1" />
 
