@@ -2,6 +2,8 @@
 
 <wiki:toc max_depth="1" />
 
+== Note: This project has moved to [https://github.com/elo80ka/django-dynamic-formset elo80ka/django-dynamic-formset] on Github. ==
+
 = The 5-minute introduction =
 
 If you have an existing project, it's quite easy to add client-side support for adding and removing forms.
